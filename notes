@@ -1,0 +1,76 @@
+JSON of confirmed cases: https://www.dph.illinois.gov/sites/default/files/COVID19/COVID19CountyResults20200331.json
+
+IDPH data & statistics portal: http://www.dph.illinois.gov/data-statistics
+IDPH Query: https://iquery.illinois.gov/DataQuery/ReportMenu.aspx
+
+Example of IDPH "Hospital profile": http://app.idph.state.il.us/files/BMI/2012%20Hosp%20Profiles/5728.pdf
+Unnecessary hospital visits: https://iquery.illinois.gov/dataquery/REPORT_CountyIndicatorReports.aspx?ReportID=12&ReportName=Unnecessary%20ER%20Visits&CategoryID=
+
+Top health events: https://iquery.illinois.gov/dataquery/REPORT_HealthEvents.aspx?ReportTypeID=2
+
+IDPH epidemiology info: http://www.dph.illinois.gov/data-statistics/epidemiology
+
+Illinois hospital report cards: http://www.healthcarereportcard.illinois.gov/
+
+Sydromic Surveillance: http://www.dph.illinois.gov/data-statistics/syndromic-surveillance
+
+Illinois Project For Local Assessment of Needs: http://app.idph.state.il.us/
+
+IDPH Data contact information for data and programs (WILL BE VERY USEFUL): http://www.dph.illinois.gov/sites/default/files/publications/responsible-individuals-2002.pdf
+
+Illinois behavioral risk factor surveillance system: http://www.idph.state.il.us/brfss/
+
+EMS Data Reporting system: http://www.idph.state.il.us/emsrpt/
+
+Illinois Center for Health Statistics Database and Datafile Resource Guide (VERY USEFUL): http://idph.illinois.gov/oehsd/ddrg/public/genericdb/code/GenericList.asp
+
+Immunization Advisory Committee Meeting example: https://www.dph.illinois.gov/sites/default/files/IACMinutes%2011-18-15.pdf
+
+I-CARE Home page: http://www.dph.illinois.gov/topics-services/prevention-wellness/immunization/icare
+ICare web portal registration process: https://icarehl7.dph.illinois.gov/icare/doc/ICARE%20Web%20Portal%20Registration%20Procedures%20Sept%202013.pdf
+
+HL7 implementation guide: http://www.dph.illinois.gov/sites/default/files/publications/cdcelrimplementationguidev231.pdf
+
+I-CARE HL7 I-CARE HL7 Upload,IDPH WebPortalRegistrationand HL7 FileTransfer(SFTP or HTTPS)Guide 
+Icare HL7 service creation: https://icarehl7.dph.illinois.gov/
+HL7 Terminology Management for Disease Surveillance: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6087982/
+I-Care HL7 links: https://icarehl7.dph.illinois.gov/icare/doc/Links.html
+ICare vaccine conversion table: https://icarehl7.dph.illinois.gov/icare/doc/TableVaccines.aspx
+SFTP I-CARE guide: https://icarehl7.dph.illinois.gov/icare/doc/sftp.html
+
+
+CDC Using Technologies for Data Collection and Management: https://www.cdc.gov/eis/field-epi-manual/chapters/data-collection-management.html
+
+REDCap home page: https://healthinstitute.illinois.edu/redcap
+REDCap https://healthinstitute.illinois.edu/research-support-translation/redcap/connect-illinois-redcap
+Training materials for REDCap: https://healthinstitute.illinois.edu/resources-training/redcap/required-training
+
+IDPH alert, mentioning REDCap: http://dph.illinois.gov/sites/default/files/COVID-19TravelNoticeAlertUpdate.2.28.2020.2.pdf
+
+"LHD Management of PUIsLHDs no longer need to fax the PUI form to IDPH. Please ensure,however, that all details from the PUI form are entered intoREDCap. PUI test results are now coming electronically into I-NEDSS. This will generate the I-NEDSS PUI case report, so you no longer have to data enter PUIs into I-NEDSS. Additionally, we will no longer be entering lab results into REDCap; just documenting the result.": https://www.riverside.il.us/DocumentCenter/View/3624/IDPH-Health-Alert---Coronavirus---3-5-2020
+
+REDCap Data Dictionary documentation ( USEFUL.): https://healthinstitute.illinois.edu/sites/default/files/How_to_Use_a_Data_Dictionary.pdf
+
+IDPH Corona Virus form -- data will be entered into REDCap, I believe: http://www.dph.illinois.gov/sites/default/files/COVID-19%20PUI%20Form%2002282020%20V.2.pdf
+
+2019 Novel Coronavirus (2019-nCoV)Situational Update call  1/22/2020: http://www.dph.illinois.gov/sites/default/files/IDPH%20Coronavirus.pdf
+
+
+NEDSS - Division for Prevention and Preparedness National Electronic Disease Surveillance System (NEDSS): https://dshs.texas.gov/nedss/default.shtm:  
+
+Department of Public Health Act: http://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=330&ChapAct=20%20ILCS%202305/&ChapterID=5&ChapterName=EXECUTIVE%20BRANCH&ActName=Department%20of%20Public%20Health%20Act.%20%28Part%201%29
+
+ILGA Administrative code, TITLE 77: PUBLIC HEALTH CHAPTER I: DEPARTMENT OF PUBLIC HEALTH SUBCHAPTER k: COMMUNICABLE DISEASE CONTROL AND IMMUNIZATIONS PART 690 CONTROL OF COMMUNICABLE DISEASES CODE http://ilga.gov/commission/jcar/admincode/077/07700690sections.html
+ILGA Administrative code: http://ilga.gov/commission/jcar/admincode/077/077006900C02000R.html
+ILGA Administrative code: http://ilga.gov/commission/jcar/admincode/077/077006900B01000R.html
+
+IDPH web portal: https://portalhome.dph.illinois.gov/
+
+Infectious Disease Reporting: http://www.dph.illinois.gov/topics-services/diseases-and-conditions/infectious-diseases/infectious-disease-reporting
+
+Public Health Reporting for Meaningful Use (LOTS OF REPORTING INFO) http://www.dph.illinois.gov/topics-services/provider-partner-resources/public-health-reporting
+
+IDPH Office of Information Technology Information Services Specialist II job posting http://www.dph.illinois.gov/sites/default/files/empopp/information-services-specialistii-opta.pdf
+IDPH Webmaster Information Systems Analyst http://www.dph.illinois.gov/sites/default/files/empopp/webmaster-isa1-opt-w-job-announcement-012319.pdf
+
+HIV Surveillance data "Illinois Integrated Plan Activities Chart" http://dph.illinois.gov/sites/default/files/Appendix%20P_Integrated%20Plan%20Activities%20Chart_2018_Final_11.16.18.pdf
